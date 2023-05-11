@@ -1,0 +1,14 @@
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\bin\Debug\netcoreapp3.1\Fundamentos.Enums.exe
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\bin\Debug\netcoreapp3.1\Fundamentos.Enums.deps.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\bin\Debug\netcoreapp3.1\Fundamentos.Enums.runtimeconfig.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\bin\Debug\netcoreapp3.1\Fundamentos.Enums.runtimeconfig.dev.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\bin\Debug\netcoreapp3.1\Fundamentos.Enums.dll
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\bin\Debug\netcoreapp3.1\Fundamentos.Enums.pdb
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\obj\Debug\netcoreapp3.1\Fundamentos.Enums.csproj.AssemblyReference.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\obj\Debug\netcoreapp3.1\Fundamentos.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\obj\Debug\netcoreapp3.1\Fundamentos.Enums.AssemblyInfoInputs.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\obj\Debug\netcoreapp3.1\Fundamentos.Enums.AssemblyInfo.cs
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\obj\Debug\netcoreapp3.1\Fundamentos.Enums.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\obj\Debug\netcoreapp3.1\Fundamentos.Enums.dll
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\obj\Debug\netcoreapp3.1\Fundamentos.Enums.pdb
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Enums\Fundamentos.Enums\obj\Debug\netcoreapp3.1\Fundamentos.Enums.genruntimeconfig.cache
